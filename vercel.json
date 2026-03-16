@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "http://phanphuochiep-001-site1.mtempurl.com/$1"
+    }
+  ]
+}
